@@ -20,5 +20,32 @@
         }
       ]
     }
+  },
+  {
+    "id": "tpl_1785536779283",
+    "name": "Sigler Pass Meeting",
+    "updated": "2026-07-31T22:26:19.283Z",
+    "data": {
+      "type": "deliverables",
+      "brand": "pass",
+      "projectName": "",
+      "projectNameColor": "#FFFFFF",
+      "headerTitle": "Smarter Ways to Explore Your BIM Projects",
+      "heroImage": null,
+      "buttonUrl": "https://resources.web.3dves.app",
+      "body": "Hello,\n\nWe are pleased to inform you that the **BIM products are now available for download.** You can access the model through the project portal using the website link and password provided below. You will find the following deliverables; please let us know if you have any further comments or require a meeting, we would be happy to assist you:",
+      "sections": [
+        {
+          "title": "Credentials",
+          "text": "User: \nPassword: ",
+          "icon": "https://raw.githubusercontent.com/DiegoFranco77/Email-assets/main/icons/icon-4ea18628.png"
+        },
+        {
+          "title": "Pending",
+          "text": "Serial Numbers, Installation dates, Part Request Mail.",
+          "icon": "https://raw.githubusercontent.com/DiegoFranco77/Email-assets/main/icons/icon-157c4ccc.png"
+        }
+      ]
+    }
   }
 ]

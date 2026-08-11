@@ -51,20 +51,20 @@
   {
     "id": "tpl_1785966464041",
     "name": "last sigler pass delivery",
-    "updated": "2026-08-05T21:47:44.041Z",
+    "updated": "2026-08-11T19:25:47.426Z",
     "data": {
       "type": "deliverables",
       "brand": "pass",
-      "projectName": "11650 W WHYMAN",
+      "projectName": "The Idea Room",
       "projectNameColor": "#FFFFFF",
       "headerTitle": "Smarter Ways to Explore Your BIM Projects",
       "heroImage": null,
       "buttonUrl": "https://pass.3dves.app/",
-      "body": "Hello,\n\nWe are pleased to present your completed **Sigler Pass Application**. Enclosed, you will find login credentials to access the app.\n\nIf you have any questions, training or need assistance, please don’t hesitate to contact your Sigler sales representative.",
+      "body": "Hello,\n\nWe are pleased to present your completed **Sigler Pass Application**. Enclosed, you will find login credentials to access the app.\n\nIf you have any questions, need assistance or training, please don’t hesitate to contact your Sigler sales representative.",
       "sections": [
         {
           "title": "Credentials",
-          "text": "User: whyma\nPassword: Whyma2026$",
+          "text": "User: theid\nPassword: Theid2026$",
           "icon": "https://raw.githubusercontent.com/DiegoFranco77/Email-assets/main/icons/icon-4ea18628.png"
         },
         {
